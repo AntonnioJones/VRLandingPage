@@ -1,0 +1,24 @@
+body{
+  font-family: "Times New Roman", Times, serif;
+}
+
+#main-nav{
+  display:flex;
+  position: fixed;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  top:0px;
+  left: 0px;
+  background-color: red;
+
+}
+
+#nav-list{
+  list-style: none;
+}
+
+.nav-link{
+  text-decoration: none;
+  color:white;
+}
